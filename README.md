@@ -5,3 +5,8 @@ chocolatey script to install a bunch of programs
 
 # Install Programs  
 `choco install -y notepadplusplus chrome dropbox teamviewer launchy-beta 7zip vlc autohotkey filezilla windirstat evernote spotify steam git dexpot plex-home-theater`
+
+# Manual Installs
+## R
+R <http://cran.r-project.org/bin/windows/base/>  
+RStudio <http://www.rstudio.com/products/rstudio/download/>
