@@ -10,6 +10,6 @@ sudo apt-get install r-base
 
 # install R Studio Server
 sudo apt-get install gdebi-core
-wget https://s3.amazonaws.com/rstudio-ide-build/desktop/bionic/amd64/rstudio-1.2.1322-amd64.deb
-sudo gdebi rstudio-server-1.1.463-amd64.deb
+wget https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-1.2.1322-amd64.deb
+sudo gdebi rstudio-server-1.2.1322-amd64.deb
 
